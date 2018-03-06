@@ -15,4 +15,6 @@ npm install progress-bar
 This is optional and the script can execute without it
 
 # Installing 
+```
 git clone https://github.com/javasaur/search.git
+```
