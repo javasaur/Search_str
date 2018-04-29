@@ -1,10 +1,10 @@
-# Search
+# Search_str
 A small routine to search a string in all files with specified extension in the current working directory and it's subfolders.
 
 # Getting started
 To see the usage instructions run
 ```
-nodejs search.js
+node search.js
 ```
 
 # Prerequisites
